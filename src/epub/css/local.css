@@ -7,10 +7,38 @@ header{
 	text-align: center;
 }
 
+/* mostly signs, cards */
+blockquote > p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+blockquote:nth-of-type(7) > p > span:first-of-type{
+	float: left;
+	text-align: initial;
+}
+
+blockquote:nth-of-type(7) > p > span:last-of-type{
+	float: right;
+	text-align: initial;
+}
+
+blockquote:nth-of-type(7) + p{
+	clear: both;
+}
+
+/* treatise on the Steppenwolf */
+blockquote:nth-of-type(4) > p{
+	font-variant: normal;
+	text-align: initial;
+}
+
+/* poetry and verses */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p{
+	font-variant: normal;
 	text-align: initial;
-	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p > span,
