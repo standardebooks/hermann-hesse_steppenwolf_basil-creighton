@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>s-036</code>
+			<reason>Preface is a framing preface.</reason>
+		</ignore>
+	</file>
+	<file path="harry-hallers-records.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>Spans are used for styling.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
