@@ -47,9 +47,11 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man is forced to reconcile different aspects of his personality and find purpose in life.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Harry Haller, once a respected intellectual, now finds himself an outsider in society. During a depressed walk through town, he meets a mysterious stranger who gives him a pamphlet on the “Steppenwolf,” a man who believes himself split into two parts: one cultured and humane, and the other animalistic and violent—a wolf. Like many other men, the Steppenwolf is cursed to suffer because he sees these two spirits as in conflict, instead of recognizing that they are but two facets of an infinite multitude of personalities that everyone has.&lt;/p&gt;
+			&lt;p&gt;Harry reads this pamphlet with great interest, believing it describes his own life. Later, he is introduced to the wild life of the bourgeois—dancing, drug use, and sex. Through this radically different lifestyle he is guided to reconcile his multitude of personalities and to find purpose in living.&lt;/p&gt;
+			&lt;p&gt;The novel follows in some places the deep despair and spiritual crises that the author &lt;a href="https://standardebooks.org/ebooks/hermann-hesse"&gt;Herman Hesse&lt;/a&gt; himself felt during the mid-1920s. Due to its depictions of drug use and sex &lt;i&gt;Steppenwolf&lt;/i&gt; was controversial upon publication. Possibly for those same reasons it gained a significant following in the counterculture movement of the 1960s, even lending itself to the name of a rock band. Today it is regarded a classic of existentialist literature, often being compared to other works by Hesse, in particular &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/hermann-hesse/siddhartha/gunther-olesch_anke-dreher_amy-coulter_stefan-langer_semyon-chaichenets"&gt;Siddhartha&lt;/a&gt;&lt;/i&gt;. Hesse later claimed that &lt;i&gt;Steppenwolf&lt;/i&gt; was his most misunderstood novel, as critics focused on the struggle and despair of Harry, and not on his possible redemption.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75756</dc:source>
