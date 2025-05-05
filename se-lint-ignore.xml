@@ -6,10 +6,4 @@
 			<reason>Preface is a framing preface.</reason>
 		</ignore>
 	</file>
-	<file path="harry-hallers-records.xhtml">
-		<ignore>
-			<code>s-046</code>
-			<reason>Spans are used for styling.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>

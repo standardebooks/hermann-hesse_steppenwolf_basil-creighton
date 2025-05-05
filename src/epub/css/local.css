@@ -14,18 +14,14 @@ blockquote > p{
 	text-indent: 0;
 }
 
-blockquote:nth-of-type(7) > p > span:first-of-type{
-	float: left;
-	text-align: initial;
+blockquote:nth-of-type(7) div p:first-of-type{
+	display: inline;
+	font-variant: small-caps;
 }
 
-blockquote:nth-of-type(7) > p > span:last-of-type{
+blockquote:nth-of-type(7) div p:last-of-type{
 	float: right;
-	text-align: initial;
-}
-
-blockquote:nth-of-type(7) + p{
-	clear: both;
+	font-variant: small-caps;
 }
 
 /* treatise on the Steppenwolf */
