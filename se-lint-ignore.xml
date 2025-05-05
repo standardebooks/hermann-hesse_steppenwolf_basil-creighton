@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="preface.xhtml">
+	<file path="content.opf">
 		<ignore>
-			<code>s-036</code>
-			<reason>Preface is a framing preface.</reason>
+			<code>s-020</code>
+			<reason>The prologue is a framing device and should not be followed by a half title page to preserve the print style.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
