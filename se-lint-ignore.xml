@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="content.opf">
-		<ignore>
-			<code>s-020</code>
+		<ignore code="s-020">
 			<reason>The prologue is a framing device and should not be followed by a half title page to preserve the print style.</reason>
 		</ignore>
 	</file>
